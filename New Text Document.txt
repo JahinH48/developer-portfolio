@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jisan Portfolio</title>
+
+    <link rel="stylesheet" href="stylea.css">
+</head>
+
+<body>
+
+    <section>
+
+        <div class="width">
+            <h1>WelCome To</h1>
+
+            <H1> <span class="Orange">Md. Jahin Hasan</span> World!</H1>
+            <h3>World-class professional web dev</h3>
+            <p> I am jisan.Iam new web developer .i am student in programming hero batch-4 .Now i am reated Portfolio
+                Website.My dream of becoming a professional web developer
+            </p>
+
+            <div class="widthk">
+                <img src="New folder/my-bg.png" alt="">
+            </div>
+
+        </div>
+
+
+    </section>
+
+</body>
+
+</html>
