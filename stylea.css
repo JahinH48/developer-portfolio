@@ -14,9 +14,19 @@ section{
 }
 .width{
        width: 50%;
+       padding-left: 2%;
        
 
 }
 .width img{
     width: 80%;
+}
+.Link{
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(252, 53, 76) 0%, rgb(10, 191, 188) 51%, rgb(252, 53, 76) 100%);
+    padding: 10px 40px;
+    color: yellow;
+    font-weight: 700;
+    border-radius: 5px;
+    
 }
