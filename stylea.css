@@ -1,16 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
-    font-size: 50px;
+    font-size: 59px;
+    margin-top: 79px;
 }
 .Orange{
     color: orange;
 }
-section{
+.jsection{
     display:flex;
+    margin-bottom: 50px;
     
+}
+.banne{
+    background-image: url("New folder/top-banner.png");
+    background-repeat: no-repeat;
+    
+
 }
 .width{
        width: 50%;
@@ -29,4 +38,19 @@ section{
     font-weight: 700;
     border-radius: 5px;
     
+}
+
+.nd{
+    background-image: url("New folder/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.button2{
+    text-decoration: none;
+    background-image: linear-gradient(yellow ,green);
+    padding: 10px 40px;
+    color: yellow;
+    font-weight: 700;
+    border-radius: 5px;
 }
