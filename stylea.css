@@ -7,12 +7,16 @@ h1{
     font-size: 59px;
     margin-top: 79px;
 }
-.Orange{
+h3{
+    font-size: 30px;
     color: orange;
+}
+.Orange{
+    color: rgb(9, 255, 0);
 }
 .jsection{
     display:flex;
-    margin-bottom: 50px;
+    margin: 40px;
     
 }
 .banne{
@@ -53,4 +57,43 @@ h1{
     color: yellow;
     font-weight: 700;
     border-radius: 5px;
+}
+.widthk{
+    
+    box-shadow: 10px 10px 30px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 25px;
+    border-radius: 10px;
+    
+
+
+}
+.jisan{
+    background-image: url("New folder/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.h1text{
+    font-size: 40px;
+
+}
+.aa{
+    font-size: 25px;
+}
+#web{
+    border-left: 7px;
+    border-image: linear-gradient( rgb(226, 34, 108) ,rgb(136, 255, 0));
+    border-image-slice: 1;
+}
+#black{
+    border-left: 7px;
+    border-image: linear-gradient( tomato ,blue);
+    border-image-slice: 1;
+}
+footer p{
+    margin-top: 100px;
+    text-align: center;
 }
